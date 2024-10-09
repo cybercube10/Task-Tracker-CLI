@@ -39,3 +39,12 @@ This is a simple command-line task management application. You can perform the f
     node app.js list [all|todo|done|in-progress]
 
 
+## Sample JSON structure
+
+[
+  {
+    "id": 1,
+    "name": "walk your dog",
+    "status" : "todo"
+  }
+]
