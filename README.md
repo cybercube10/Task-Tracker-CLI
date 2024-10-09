@@ -1,12 +1,13 @@
-# Project Name
+# Task Tracker 
+Sample solution for https://roadmap.sh/projects/task-tracker
 
 Task tracker is a project used to track and manage your tasks. In this task, you will build a simple command line interface (CLI) to track what you need to do, what you have done, and what you are currently working on.
+
 
 ## Installation
 
 To clone the repository, run the following command in your terminal:
 
-```bash
 git clone https://github.com/cybercube10/Task-Tracker-CLI.git
 
 
