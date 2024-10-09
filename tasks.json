@@ -1,0 +1,22 @@
+[
+  {
+    "Id": 1,
+    "name": "walk dog",
+    "status": "done"
+  },
+  {
+    "Id": 2,
+    "name": "'cook food'",
+    "status": "in-progress"
+  },
+  {
+    "Id": 3,
+    "name": "do dishes",
+    "status": "todo"
+  },
+  {
+    "Id": 4,
+    "name": "do laundary",
+    "status": "todo"
+  }
+]
